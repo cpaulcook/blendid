@@ -30,4 +30,3 @@ $ cat 120721072955.json | python tweetswithre.py --searchres=neos.re | python ge
 
 Each line of the output has the following information
 blend_candidate source_word1 source_word2 Regex_match URL_of_tweet text_of_tweet
-=======
