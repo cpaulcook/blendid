@@ -1,3 +1,5 @@
+# Copyright Paul Cook 2012, distributed under the GPL.
+
 import json, tokeniser
 
 class TweetsWithRE():

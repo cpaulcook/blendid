@@ -1,3 +1,5 @@
+# Copyright Paul Cook 2012, distributed under the GPL.
+
 import argparse, blendinterps, codecs, gzip, langid, json, sys, tokeniser
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 

@@ -1,3 +1,5 @@
+# Copyright Paul Cook 2012, distributed under the GPL.
+
 import nltk, re, sys
 stemmer = nltk.stem.PorterStemmer()
 
